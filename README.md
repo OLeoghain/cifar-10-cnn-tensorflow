@@ -102,8 +102,7 @@ tensorboard --logdir tensorboard
 | **Softmax_linear** |
 !
 ## What's new
-
-### v0.0.1
+   ~76% accuracy achieved after ~15 hours of training
     
 
 
@@ -111,4 +110,4 @@ tensorboard --logdir tensorboard
     - First release
 
 ## License
-
+GNU General Public License v3.0
