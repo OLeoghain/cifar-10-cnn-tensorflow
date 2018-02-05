@@ -7,7 +7,6 @@ Cifar-10 convolutional network implementation example using TensorFlow library.
 **Python** | **^3.5**
 **Tensorflow** | **^1.0.1**
 **Numpy** | **^1.12.0** 
-**Pickle** |  *  
 
 ## Usage
 ### Download code:
@@ -105,7 +104,8 @@ tensorboard --logdir tensorboard
    ~76% accuracy achieved after ~15 hours of training
     
 
-
+### v0.0.1
+    - Added data visualisation script
 ### v0.0.0
     - First release
 
